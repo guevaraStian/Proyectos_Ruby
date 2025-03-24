@@ -1,7 +1,7 @@
 =begin
     En este codigo se muestran 2 formas de hola mundo
     una desde el principio del codigo y otra con un objet
-    Primero se descarga y se instala ruby en el computador,
+    Primero se descarga y se instala ruby en el computador
     luego se crea el proyecto y cuando quiera ejecutar 
     el software es con el siguiente codigo
     ruby nombre_archivo.rb
