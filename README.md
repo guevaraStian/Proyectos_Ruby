@@ -20,6 +20,15 @@ brew install rbenv ruby-build
 sudo apt install rbenv
 ```
 
+Despues de haber instalado Ruby, descargamos git y descargamos el proyecto.
+```Terminal de comandos
+git --version
+git init
+git clone https://github.com/guevaraStian/Proyectos_Ruby.git
+Cd Proyectos_Ruby
+git push origin master
+```
+
 Luego de tener instalado Python podemos ejecutar los siguientes comandos hasta llegar a la carpeta del proyecto y estando ahí ejecutamos los siguientes codigos
 
 ```Terminal de comandos
