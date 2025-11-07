@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Dashboard sencillo</title>
+  <style>
+    body { font-family: sans-serif; padding: 2rem; }
+    .box { background: #f0f0f0; padding: 1rem; margin: 1rem 0; border-radius: 8px; }
+  </style>
+</head>
+<body>
+  <h1>Dashboard sencillo</h1>
+
+  <div class="box">
+    <strong>Esta pagina tiene las visitas : </strong> <%= @visitas %>
+  </div>
+
+  <div class="box">
+    <strong>Los usuarios activos son : </strong> <%= @usuarios_activos %>
+  </div>
+
+  <div class="box">
+    <strong>Las ventas hoy son : </strong> <%= @ventas_hoy %>
+  </div>
+</body>
+</html>
