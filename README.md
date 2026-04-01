@@ -3,7 +3,7 @@
 
 
 Los pasos para poner en ejecución son los siguientes.
-Ir a la pagina web de RUBY y descargarlo para tu sistema operativo, escoger la opción "add path" con el fin de poder ejecutar comandos de Ruby en la terminal de comandos.
+Primero descargar el software de la pagina web de RUBY y descargarlo para tu sistema operativo, escoger la opción "add path" con el fin de poder ejecutar comandos de Ruby en la terminal de comandos.
 
 Windows.
 ```Pagina web
