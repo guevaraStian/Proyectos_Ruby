@@ -5,7 +5,7 @@
 Los pasos para poner en ejecución son los siguientes.
 Primero descargar el software de la pagina web de RUBY y descargarlo para tu sistema operativo, escoger la opción "add path" con el fin de poder ejecutar comandos de Ruby en la terminal de comandos.
 
-Windows.
+WINDOWS.
 ```Pagina web
 https://rubyinstaller.org/
 ```
@@ -21,7 +21,7 @@ brew install rbenv ruby-build
 sudo apt install rbenv
 ```
 
-Despues de haber instalado Ruby, descargamos git y descargamos el proyecto, se puede hacer dando click en el boton verde y luego en dowload, otra forma es usando comandos de terminal.
+Despues de haber instalado Ruby, descargamos git y descargamos el proyecto, se puede hacer dando click en el boton verde y luego en dowload, otra forma es usando los siguientes comandos de terminal.
 ```Terminal de comandos
 git --version
 git init
