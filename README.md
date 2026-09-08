@@ -43,7 +43,7 @@ brew install rbenv ruby-build
 sudo apt install rbenv
 ```
 
-Despues de haber instalado Ruby, descargamos git y descargamos el proyecto, se puede hacer dando click en el boton verde y luego en dowload, otra forma es descargando e instalando git y luego usando los siguientes comandos de terminal.
+Despues de haber instalado Ruby, descargamos git y descargamos el proyecto, se puede hacer dando click en el boton verde y luego en dowload, otra forma es descargando e instalando git y luego usando los siguientes comandos de terminal, en cualquier sistema operativo.
 ```Terminal de comandos
 git --version
 git init
