@@ -52,7 +52,7 @@ Cd Proyectos_Ruby
 git push origin master
 ```
 
-Luego de tener instalado Python podemos ejecutar los siguientes comandos hasta llegar a la carpeta del proyecto y estando ahí ejecutamos los siguientes codigos.
+Luego de tener instalado Python podemos ejecutar los siguientes comandos hasta llegar a la carpeta del proyecto y estando ahí ejecutamos los siguientes comando en el cmd o terminal de comandos.
 
 ```Terminal de comandos
 cd    
