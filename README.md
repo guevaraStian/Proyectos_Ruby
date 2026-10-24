@@ -60,7 +60,7 @@ ruby -v
 ruby <Nombre_Proyecto.rb>
 
 ```
-Luego que el proyecto ya se este ejecutando se darán diferentes respuestas en consola o pestañas emergentes.
+Luego que el proyecto ya se este ejecutando se darán diferentes respuestas en consola o pestañas emergentes dependiendo de como este organizado el software y para que sirve.
 
 <h2> ¡¡ ADVERTENCIA !! , TODOS LOS SOFTWARE DE ESTE REPOSITORIO, RELACIONADOS A CIBERSEGURIDAD TIENEN FUNCIONES EDUCATIVAS Y PEDAGOGICAS, NO DEBEN USARSE PARA VIOLAR PRIVACIDADES, NO DEBE USARSE SIN CONSENTIMIENTO DEL PROPIETARIO DEL DISPOSITIVO A HACKEAR. SON PROGRAMAS DE HACKING ETICO Y LA PERSONA QUE ACCEDAN A ESTOS SOFTWARE SON RESPONSABLE DE SU USO.</h2> 
 
